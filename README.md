@@ -29,9 +29,9 @@
   <p><br></p>
   <div>
     <a href="https://github.com/Fernandes-ez">
-    <img loading="lazy" height="180em" width= "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandes-ez&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" width= "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandes-ez&layout=compact&langs_count=7&theme=midnight-purple"/>
       <p><br></p>
-    <img loading="lazy" height="180em" width= "100%" src="https://github-readme-stats.vercel.app/api?fernandes-ez=anuraghazra&hide=contribs,prs"/>
+    <img loading="lazy" height="180em" width= "100%" src="https://github-readme-stats.vercel.app/api?username=fernandes-ez&show_icons=true&theme=midnight-purple"/>
   </div>
 </body>
 </html>
