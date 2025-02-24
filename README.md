@@ -12,7 +12,7 @@
     <p> <br>  Hey, I'm Enzo, but you can call me Fernandes. I'm 19 and a developer/student. Right now, I'm studying Multiplatform Software Development at Fatec Zona Leste in São Paulo. I'm looking to dive deeper into backend programming. Additionally, I have some affinity with image editing. Below, you'll see some of the programming languages and frameworks I use and study, and further down, some of the software I've worked with and have experience in.</p>
       <p><br></p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,spring" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,nodejs,java,spring,mongodb,mysql" />
     </a>
       <p><br></p>
     <p>Alguns programas que tenho experiência:</p>
