@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <p>   Eu sou o Enzo, mas pode me chamar de Fernandes, tenho 18 anos e  sou um desenvolvedor e estudante. Atualmente estou me graduando em Desenvolvimento de Software Multiplaforma na Fatec Zona Leste, em São Paulo. Busco me aprofundar na área do backend na programação, além disso tenho certa afinidade com edição de imagens também. Aqui em baixo vão ter algumas das linguagens e frameworks que programo e estudo e mais em baixo ainda alguns programas que ja utilizei e tenho experiência.</p>
+    <p>   Eu sou o Enzo, mas pode me chamar de Fernandes, tenho 19 anos e  sou um desenvolvedor e estudante. Atualmente estou me graduando em Desenvolvimento de Software Multiplaforma na Fatec Zona Leste, em São Paulo. Busco me aprofundar na área do backend na programação, além disso tenho certa afinidade com edição de imagens também. Aqui em baixo vão ter algumas das linguagens e frameworks que programo e estudo e mais em baixo ainda alguns programas que ja utilizei e tenho experiência.</p>
     // 
-    <p> <br>  Hey, I'm Enzo, but you can call me Fernandes. I'm 18 and a developer/student. Right now, I'm studying Multiplatform Software Development at Fatec Zona Leste in São Paulo. I'm looking to dive deeper into backend programming. Additionally, I have some affinity with image editing. Below, you'll see some of the programming languages and frameworks I use and study, and further down, some of the software I've worked with and have experience in.</p>
+    <p> <br>  Hey, I'm Enzo, but you can call me Fernandes. I'm 19 and a developer/student. Right now, I'm studying Multiplatform Software Development at Fatec Zona Leste in São Paulo. I'm looking to dive deeper into backend programming. Additionally, I have some affinity with image editing. Below, you'll see some of the programming languages and frameworks I use and study, and further down, some of the software I've worked with and have experience in.</p>
       <p><br></p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,java,spring" />
